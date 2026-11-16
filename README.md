@@ -1,6 +1,6 @@
 # Watt's Upp 
-Este projeto tem o  desenvolvido como requisito de avaliação da disciplina Arquitetura de Computadores. 
-O objetivo é desenvolver um projeto para Processador com instrução MAC customizada para monitoramento de consumo de energia nas resisdências, usando a linguagem C, Assembly RISC-V e Verilog.
+Este projeto foi desenvolvido como requisito de avaliação da disciplina Arquitetura de Computadores. 
+O objetivo é criar um projeto para um Processador com instrução MAC customizada para monitoramento de consumo de energia pelas resisdências, usando a linguagem C, Assembly RISC-V e Verilog.
 
 ## Autor
 
